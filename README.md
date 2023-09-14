@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/gusdnr19979)
-#3776AB
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+
+
 <!--
 **helpparty1/helpparty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
