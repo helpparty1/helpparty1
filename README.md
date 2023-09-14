@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요 👋
+---
+### About Me :)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/gusdnr19979)
 
 <div align=center><h1>📚 STACKS</h1></div>
