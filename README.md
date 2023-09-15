@@ -11,7 +11,7 @@
 2023년 기준 스위프트 공부 중
 
 ---
-[Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr19979)](https://solved.ac/gusdnr19979)[!
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr19979)](https://solved.ac/gusdnr19979)[!
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helpparty1&show_icons=true&theme=shadow_blue)
 ---
 
