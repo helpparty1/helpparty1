@@ -12,7 +12,7 @@
 2023년 기준 스위프트 공부 중
 
 ---
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준닉네임)](https://solved.ac/gusdnr19979)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr19979)](https://solved.ac/gusdnr19979)
 ---
 
 <div align=center><h1>📚 STACKS</h1></div>
