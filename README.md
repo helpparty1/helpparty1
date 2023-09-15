@@ -1,5 +1,4 @@
-### 안녕하세요 [Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-
+### 안녕하세요 
 ---
 
 ### About Me :)
@@ -13,7 +12,7 @@
 
 ---
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gusdnr19979)](https://solved.ac/gusdnr19979)[!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helpparty1&show_icons=true&theme=shadow_blue)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helpparty1&show_icons=true&theme=shadow_blue)
 ---
 
 <div align=center><h1>📚 STACKS</h1></div>
