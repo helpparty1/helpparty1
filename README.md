@@ -2,7 +2,7 @@
 ---
 
 ### About Me :)
--2022 현대자동차그룹_점프스쿨_9기 수료 \
+-2022 현대자동차그룹_점프스쿨_9기 수료 
 -2023 강원대학교_캡스톤디자인페스티벌_대상_Maincoder(기숙사 매칭 어플)
 
 
@@ -19,7 +19,7 @@
   <div align=center>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
 
 
 <!--
